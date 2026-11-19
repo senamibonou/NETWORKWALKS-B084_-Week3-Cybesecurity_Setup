@@ -33,7 +33,7 @@ or https://distro.ibiblio.org/openwall/projects/john/1.9.0/
 https://openwall.info/wiki/john/johnny
 
 - Opened the settings browser and added the path to john.exe to connect Johnny to the John the Ripper engine.
-
+![Description](john.png)
 # 3. Extracting the PDF Hash
 
 Used an online PDF hash extraction tool to obtain the hash of the password-protected document.
@@ -48,12 +48,13 @@ Imported the TXT file containing the extracted hash.
 # 5. Starting the Password Audit
 
 Selected Start New Attack to launch the password auditing process.
+![Description](Johny.png)
 
 # 6. Verifying the Result
 
 The password was recovered within a few seconds.
-
 The recovered password was then tested on the original PDF document, successfully confirming the result.
+![Description](jtr1.png)
 
 # Learning Outcomes
 
@@ -95,6 +96,7 @@ https://networkwalks.com/hash-calculator/
   https://networkwalks.com/password-cracker/
 
 - Observed the tool's output and documented the results of the exercise.
+  ![Description](Cra_pass.png)
 
 # Learning Outcomes
 
